@@ -1,0 +1,1 @@
+Add is used to add tar files which gets unzipped automatically. This can also be used to get code from a link. But this is not recommened, as there is no way to check the quality of the code or if anything goes wrong

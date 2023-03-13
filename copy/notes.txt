@@ -1,0 +1,1 @@
+Copy is used to copy files and folders from host machine to docker instance.
