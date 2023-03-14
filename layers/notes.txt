@@ -1,0 +1,1 @@
+We can use && / at the end of each RUN command line to reduce the nubmer of layers getting created. This will reduce the size of the image to an extent but not much.
